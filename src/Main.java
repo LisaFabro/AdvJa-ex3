@@ -6,6 +6,7 @@ public class Main {
         int num2=0;
         try{
             int result= num1/num2;
+            System.out.println(result);
         }catch(Exception e){
             System.out.println("Cannot divide a number by zero");
         }

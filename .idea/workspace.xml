@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8e3c1c8-ac4f-4da3-8ddf-b1c98ca8cae9" name="Changes" comment="add es 3">
+    <list default="true" id="c8e3c1c8-ac4f-4da3-8ddf-b1c98ca8cae9" name="Changes" comment="add es 3 1.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -64,12 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699905199909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add es 3 1.2">
+      <option name="closed" value="true" />
+      <created>1700067601446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700067601446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add es 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add es 3" />
+    <MESSAGE value="add es 3 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add es 3 1.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
