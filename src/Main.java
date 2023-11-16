@@ -5,11 +5,12 @@ public class Main {
         int num1=2;
         int num2=0;
         try{
-            int result= num1/num2;
-            System.out.println(result);
-        }catch(Exception e){
+            System.out.println("The result of the operation is: " + division(num1, num2));
+        }catch(ArithmeticException e){
             System.out.println("Cannot divide a number by zero");
         }
-        System.out.println("End of the code");
+    }
+    public static int division(int num1, int num2){
+        return num1/num2;
     }
 }
